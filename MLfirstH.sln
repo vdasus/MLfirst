@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLfirstH", "MLfirstH\MLfirstH.csproj", "{1E86A6E0-4BF8-489E-87DB-4E43C02F31A7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLfirstHML.Model", "MLfirstHML.Model\MLfirstHML.Model.csproj", "{C7C5FF9A-6990-4956-B2AF-8776449EB070}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLfirstHML.ConsoleApp", "MLfirstHML.ConsoleApp\MLfirstHML.ConsoleApp.csproj", "{9214DD31-F8B5-4D72-AC94-4B2968DD5E0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1E86A6E0-4BF8-489E-87DB-4E43C02F31A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E86A6E0-4BF8-489E-87DB-4E43C02F31A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E86A6E0-4BF8-489E-87DB-4E43C02F31A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C5FF9A-6990-4956-B2AF-8776449EB070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C5FF9A-6990-4956-B2AF-8776449EB070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C5FF9A-6990-4956-B2AF-8776449EB070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C5FF9A-6990-4956-B2AF-8776449EB070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9214DD31-F8B5-4D72-AC94-4B2968DD5E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9214DD31-F8B5-4D72-AC94-4B2968DD5E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9214DD31-F8B5-4D72-AC94-4B2968DD5E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9214DD31-F8B5-4D72-AC94-4B2968DD5E0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
