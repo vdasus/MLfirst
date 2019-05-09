@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLfirstH", "MLfirstH\MLfirstH.csproj", "{1E86A6E0-4BF8-489E-87DB-4E43C02F31A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E86A6E0-4BF8-489E-87DB-4E43C02F31A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E86A6E0-4BF8-489E-87DB-4E43C02F31A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E86A6E0-4BF8-489E-87DB-4E43C02F31A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E86A6E0-4BF8-489E-87DB-4E43C02F31A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106F91D4-7CF4-45AE-81A7-7789CD1B588C}
+	EndGlobalSection
+EndGlobal
